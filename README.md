@@ -1,4 +1,4 @@
-# HELLO-WORLD
+# hello-world
 
 Hi humans
 
